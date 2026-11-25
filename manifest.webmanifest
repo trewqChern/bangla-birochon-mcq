@@ -1,0 +1,18 @@
+{
+  "name": "বাংলা বিরচন MCQ — DU-B স্পেসড রিপিটিশন",
+  "short_name": "বিরচন MCQ",
+  "description": "ঢাবি খ-ইউনিট ভর্তি প্রস্তুতির জন্য সমার্থক ও বিপরীত শব্দের অফলাইন MCQ ও SM-2 স্পেসড রিপিটিশন অ্যাপ।",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0B1120",
+  "theme_color": "#3730A3",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
